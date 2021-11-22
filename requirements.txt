@@ -1,0 +1,17 @@
+wheel
+more-itertools
+pluggy
+regex
+requests
+tqdm
+nltk
+gensim
+matplotlib
+seaborn
+wordcloud
+streamlit
+spacy
+tensorflow
+numpy
+Pillow
+https://github.com/explosion/spacy-models/releases/download/fr_core_news_lg-3.2.0/fr_core_news_lg-3.2.0-py3-none-any.whl
